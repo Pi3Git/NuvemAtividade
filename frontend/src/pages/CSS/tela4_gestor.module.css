@@ -1,0 +1,31 @@
+.container {
+  max-width: 450px;
+  margin: 40px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px #0002;
+}
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 15px;
+}
+
+.menu button {
+  padding: 8px 14px;
+  border-radius: 8px;
+  border: none;
+  color: white;
+  background: #444;
+  cursor: pointer;
+}
+
+.card {
+  padding: 12px;
+  margin: 8px 0;
+  background: #f6f6f6;
+  border: 1px solid #ddd;
+  border-radius: 8px;
+}

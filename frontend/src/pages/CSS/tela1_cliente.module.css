@@ -1,0 +1,30 @@
+.container {
+  max-width: 400px;
+  margin: 40px auto;
+  padding: 20px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 2px 8px #0002;
+}
+
+.menu {
+  margin-bottom: 10px;
+}
+
+input {
+  width: 100%;
+  margin: 8px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+}
+
+button {
+  width: 100%;
+  padding: 10px;
+  background: #0077ff;
+  border: none;
+  color: white;
+  border-radius: 8px;
+  cursor: pointer;
+}
